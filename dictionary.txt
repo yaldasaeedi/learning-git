@@ -1,3 +1,5 @@
 git status: تغیرات ثبت نشده
 git commit -m’tozih’
 git commit -S -m’tozih’ : emza mishe
+git add filename.type
+git add -A
