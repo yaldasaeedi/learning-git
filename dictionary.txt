@@ -3,4 +3,36 @@ git commit -m’tozih’
 git commit -S -m’tozih’ : emza mishe
 git add filename.type
 git add -A
+<<<<<<< HEAD
 git log
+=======
+git reset filename.type
+git checkout -- filename.type
+git branch branchName 
+git branch
+git checkout branchName
+git merge branchName
+git rm filename.type
+git branch -d branchName
+git clone link
+git push origin master
+git pull origin master
+git remote 
+git remote add origin link
+git remote -v
+git remote origin master
+git tag 
+git tag -a atag -m ‘tozih’
+git tag -a atag address
+git tag -l “v*”
+git show tag
+git push origin tagname (or --tags)
+git help dastoor
+git blame filename -Ln,lm
+git bisect
+git bisect start
+git bisect bad address
+git bisect good address
+git log -inline
+touch .gitignore
+>>>>>>> others
