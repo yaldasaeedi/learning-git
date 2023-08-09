@@ -3,9 +3,7 @@ git commit -m’tozih’
 git commit -S -m’tozih’ : emza mishe
 git add filename.type
 git add -A
-<<<<<<< HEAD
 git log
-=======
 git reset filename.type
 git checkout -- filename.type
 git branch branchName 
