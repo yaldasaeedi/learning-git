@@ -1,1 +1,3 @@
 git status: تغیرات ثبت نشده
+git commit -m’tozih’
+git commit -S -m’tozih’ : emza mishe
